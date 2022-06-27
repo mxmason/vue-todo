@@ -90,7 +90,7 @@ body {
 	line-height: 1.15;
 }
 
-.App {
+#app {
 	padding: 2rem;
 }
 </style>
