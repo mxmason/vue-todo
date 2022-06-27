@@ -56,6 +56,9 @@ const onChange = (itemId: string) => {
       :value="name"
       @input="onInput"
     >
+    <button type="submit">
+      Submit
+    </button>
   </form>
   <ul>
     <li
